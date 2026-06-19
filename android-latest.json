@@ -1,5 +1,5 @@
 {
-  "version": "0.2.82",
+  "version": "0.2.83",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Player fixes: green-screen video, remote OK button to play/pause, controls reveal on key press."
+  "notes": "TV fixes: picking a stream now plays it (it no longer bounces back to the menu), and the 'Who's watching?' chooser keeps focus on the profiles so you can pick one directly with the remote."
 }
