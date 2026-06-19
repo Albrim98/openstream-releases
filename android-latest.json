@@ -1,5 +1,5 @@
 {
-  "version": "0.2.83",
+  "version": "0.2.84",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "TV fixes: picking a stream now plays it (it no longer bounces back to the menu), and the 'Who's watching?' chooser keeps focus on the profiles so you can pick one directly with the remote."
+  "notes": "TV player: D-pad now reaches every control (Left/Right seek, Up/Down move between buttons, OK selects). Stronger fix for green video on some boxes. Note: HEVC/x265 video and Dolby/DTS audio aren't supported by the TV's built-in player yet - pick an x264 + AAC source if a movie shows green or has no sound."
 }
