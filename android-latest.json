@@ -1,5 +1,5 @@
 {
-  "version": "0.2.80",
+  "version": "0.2.81",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "D-pad navigation, profile-picker fixes, mic fix, and the in-app Android updater."
+  "notes": "Back button closes popups (no longer exits the app), rail focus memory, and the in-app updater."
 }
