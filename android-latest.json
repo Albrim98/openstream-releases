@@ -1,5 +1,5 @@
 {
-  "version": "0.2.81",
+  "version": "0.2.82",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Back button closes popups (no longer exits the app), rail focus memory, and the in-app updater."
+  "notes": "Player fixes: green-screen video, remote OK button to play/pause, controls reveal on key press."
 }
