@@ -1,5 +1,5 @@
 {
-  "version": "0.2.85",
+  "version": "0.2.86",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "TV: Back now just closes the Subtitles/Audio popup instead of leaving the player. Removed the Mute and Fullscreen buttons (the TV handles those). The update prompt moved into Settings - look for the dot on the Settings icon and press Update there."
+  "notes": "Big one: native video player on TV (ExoPlayer). Movies that used to be green or silent should now play with picture + sound, including HEVC/x265 and many Dolby/DTS tracks. Same Reelm controls. If a stream still won't play, it's a format even the TV's chip can't decode - try another source."
 }
