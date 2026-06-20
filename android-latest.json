@@ -1,5 +1,5 @@
 {
-  "version": "0.2.92",
+  "version": "0.2.93",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Browsing a genre now keeps loading more titles as you scroll. Fixed a bug where some genres in Movies/Series/Anime stopped loading early (a single network hiccup could permanently halt paging until you left and came back)."
+  "notes": "Subtitles: the player now lists every language from every subtitle addon you have installed, not just English. Each addon's languages appear as it responds, so a slow translation addon no longer hides the others."
 }
