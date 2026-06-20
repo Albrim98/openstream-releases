@@ -1,5 +1,5 @@
 {
-  "version": "0.2.93",
+  "version": "0.2.95",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Subtitles: the player now lists every language from every subtitle addon you have installed, not just English. Each addon's languages appear as it responds, so a slow translation addon no longer hides the others."
+  "notes": "Subtitles fix: the picker now reliably lists every language from every installed subtitle addon (e.g. SubMaker's Swedish). Fixed cases where the list could come up empty even though an addon had subtitles."
 }
