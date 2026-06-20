@@ -1,5 +1,5 @@
 {
-  "version": "0.2.86",
+  "version": "0.2.89",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Big one: native video player on TV (ExoPlayer). Movies that used to be green or silent should now play with picture + sound, including HEVC/x265 and many Dolby/DTS tracks. Same Reelm controls. If a stream still won't play, it's a format even the TV's chip can't decode - try another source."
+  "notes": "TV remote fixes: you can now navigate the Subtitles/Audio picker with the D-pad while watching (it was unreachable), and on the home grid pressing Left walks back through a row (and only reaches the side menu at the row's edge) instead of jumping straight to the menu - Up/Down move between rows, not to the menu."
 }
