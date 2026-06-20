@@ -1,5 +1,5 @@
 {
-  "version": "0.2.90",
+  "version": "0.2.92",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "TV fixes: you can now switch profiles again (the active profile card was unselectable, which left you stuck on Log out), and pressing Back while watching returns you to that title's source list so you can pick another stream instead of dropping all the way back to the grid."
+  "notes": "Browsing a genre now keeps loading more titles as you scroll. Fixed a bug where some genres in Movies/Series/Anime stopped loading early (a single network hiccup could permanently halt paging until you left and came back)."
 }
