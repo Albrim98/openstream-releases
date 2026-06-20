@@ -1,5 +1,5 @@
 {
-  "version": "0.2.95",
+  "version": "0.2.96",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Subtitles fix: the picker now reliably lists every language from every installed subtitle addon (e.g. SubMaker's Swedish). Fixed cases where the list could come up empty even though an addon had subtitles."
+  "notes": "Subtitles/addons: the app now reaches every addon the way Stremio does. Addons that blocked the app before (returning 'must be accessed through Stremio') now work, so subtitle addons like SubMaker and any others show their languages."
 }
