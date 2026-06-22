@@ -1,5 +1,5 @@
 {
-  "version": "0.2.105",
+  "version": "0.2.106",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Fixes addons not loading on Android TV. The previous TV build had a broken native HTTPS path, so catalogs, details and streams never appeared even though your account showed addons linked. This build trusts bundled root certificates, so addon requests work on the box."
+  "notes": "TV: the rail's Profile button now opens the \"Who's watching?\" chooser so you can switch profiles with the remote, plus a separate Account item for sign in/out and managing profiles. Added Back buttons on the Account, Settings and Search pages, and made the profile chooser fully opaque so the home no longer shows through it."
 }
