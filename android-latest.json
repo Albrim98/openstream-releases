@@ -1,5 +1,5 @@
 {
-  "version": "0.2.106",
+  "version": "0.2.107",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "TV: the rail's Profile button now opens the \"Who's watching?\" chooser so you can switch profiles with the remote, plus a separate Account item for sign in/out and managing profiles. Added Back buttons on the Account, Settings and Search pages, and made the profile chooser fully opaque so the home no longer shows through it."
+  "notes": "TV: fixed the Back button on every page. Back now always returns to the previous page or overlay you were on — sources → episodes, the player → its sources, sub-pages → home — and never drops out of the app by accident. Only Back from the home screen exits."
 }
