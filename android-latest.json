@@ -1,5 +1,5 @@
 {
-  "version": "0.2.97",
+  "version": "0.2.103",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Subtitles: removed the bogus 'MAKE SWEDISH' entry from the language list (a SubMaker translate-on-demand action, not a real language). The picker now lists only actual languages."
+  "notes": "Fixes addons not working on TV: native HTTPS now uses bundled root certificates, so catalogs, details and streams load on Android TV (the TLS handshake was failing on the box, so nothing appeared even though the account showed addons linked)."
 }
