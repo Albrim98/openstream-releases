@@ -1,5 +1,5 @@
 {
-  "version": "0.2.103",
+  "version": "0.2.105",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Fixes addons not working on TV: native HTTPS now uses bundled root certificates, so catalogs, details and streams load on Android TV (the TLS handshake was failing on the box, so nothing appeared even though the account showed addons linked)."
+  "notes": "Fixes addons not loading on Android TV. The previous TV build had a broken native HTTPS path, so catalogs, details and streams never appeared even though your account showed addons linked. This build trusts bundled root certificates, so addon requests work on the box."
 }
