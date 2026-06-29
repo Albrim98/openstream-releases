@@ -1,5 +1,5 @@
 {
-  "version": "0.2.109",
+  "version": "0.2.110",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Faster stream loading: streams now start fetching in parallel with the title details, and addon requests reuse one pooled connection instead of a fresh handshake each time, so opening a movie/series and picking a source is noticeably quicker. Also: finished episodes and movies now stay in Continue Watching until you remove them with the x."
+  "notes": "Dead/expired streams no longer look like a finished video: if a source cannot actually play, you now get a clear message to go back and pick another stream, and it is never marked as watched. Plus the faster stream loading from the last update."
 }
