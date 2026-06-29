@@ -1,5 +1,5 @@
 {
-  "version": "0.2.107",
+  "version": "0.2.109",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "TV: fixed the Back button on every page. Back now always returns to the previous page or overlay you were on — sources → episodes, the player → its sources, sub-pages → home — and never drops out of the app by accident. Only Back from the home screen exits."
+  "notes": "Faster stream loading: streams now start fetching in parallel with the title details, and addon requests reuse one pooled connection instead of a fresh handshake each time, so opening a movie/series and picking a source is noticeably quicker. Also: finished episodes and movies now stay in Continue Watching until you remove them with the x."
 }
