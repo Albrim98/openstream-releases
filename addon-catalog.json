@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "addons": [
+    {
+      "name": "Torrentio",
+      "description": "The most popular torrent stream source — finds movie & series streams from public trackers.",
+      "category": "Streams",
+      "manifestUrl": "https://torrentio.strem.fun/manifest.json",
+      "configureUrl": "https://torrentio.strem.fun/configure",
+      "note": "Works out of the box. Add a Real-Debrid / AllDebrid key in Configure for fast, cached streams.",
+      "match": "torrentio.strem.fun"
+    },
+    {
+      "name": "MediaFusion",
+      "description": "A broad streams aggregator (torrents + debrid) with lots of providers.",
+      "category": "Streams",
+      "configureUrl": "https://mediafusion.elfhosted.com/configure",
+      "note": "Configure to pick providers (and a debrid key if you have one), then it installs.",
+      "match": "mediafusion"
+    },
+    {
+      "name": "Comet",
+      "description": "Fast debrid-first stream finder — best if you have a debrid account.",
+      "category": "Streams",
+      "configureUrl": "https://comet.elfhosted.com/configure",
+      "note": "Built for debrid (Real-Debrid / AllDebrid / Premiumize). Configure to set it up.",
+      "match": "comet"
+    },
+    {
+      "name": "OpenSubtitles v3",
+      "description": "Subtitles in dozens of languages for almost everything.",
+      "category": "Subtitles",
+      "manifestUrl": "https://opensubtitles-v3.strem.io/manifest.json",
+      "note": "No setup needed — install and pick a language from the subtitle button while watching.",
+      "match": "opensubtitles-v3.strem.io"
+    }
+  ]
+}
