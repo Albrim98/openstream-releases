@@ -1,5 +1,5 @@
 {
-  "version": "0.2.110",
+  "version": "0.2.149",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Dead/expired streams no longer look like a finished video: if a source cannot actually play, you now get a clear message to go back and pick another stream, and it is never marked as watched. Plus the faster stream loading from the last update."
+  "notes": "D-pad navigation overhaul: fixed inconsistent Up/Down movement while browsing rows, Settings tabs now navigate correctly, and every focusable control shows a clear highlight. Also adds a proper TV home-screen banner."
 }
