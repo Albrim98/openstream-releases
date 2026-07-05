@@ -1,5 +1,5 @@
 {
   "version": "0.2.150",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Skip Intro/Outro now auto-hides after 10 seconds if you don't click it, and the anime intro/outro timing detection is more accurate. Fixes anime spec"
+  "notes": "Skip Intro/Outro now auto-hides after 10 seconds if you don't click it, and the anime intro/outro timing detection is more accurate."
 }
