@@ -1,5 +1,5 @@
 {
-  "version": "0.2.155",
+  "version": "0.2.156",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "TV playback overhaul: fixes the green-screen picture (the native player now always takes over), correct aspect ratio and visible subtitles in the native player, and peer-to-peer torrent streams now play on TV — no debrid needed."
+  "notes": "Profile picker fixes for TV: the \"Who's watching?\" background now covers the full screen (was leaving a gap showing the app behind it), and the D-pad now starts on the last profile you picked with a visible focus ring."
 }
