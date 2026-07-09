@@ -1,5 +1,1 @@
-{
-  "version": "0.2.156",
-  "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Profile picker fixes for TV: the \"Who's watching?\" background now covers the full screen (was leaving a gap showing the app behind it), and the D-pad now starts on the last profile you picked with a visible focus ring."
-}
+{"version":"0.2.157","url":"https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk","notes":"TV overhaul: D-pad now moves Left/Right through Subtitles/Audio/Speed/Info (Up reaches Play/Pause); Back no longer exits the player from an open panel; Back after playing reopens the sources popup instead of dropping to Discover; audio language now correctly defaults to English (Japanese for anime); fixed green/corrupted picture and black-picture-with-audio on some streams (switched the video surface from TextureView to SurfaceView -- the common cause on TV-box hardware for 10-bit/HDR 4K content)."}
