@@ -1,1 +1,1 @@
-{"version":"0.2.210","url":"https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk","notes":"Subtitles button now shows a clear CC icon so it's easier to spot at a glance."}
+{"version":"0.2.211","url":"https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk","notes":"Skip Intro/Outro and Next episode now auto-trigger after a 5 second countdown (anime and movies only) - turn it off in Settings if you'd rather click manually."}
