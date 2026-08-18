@@ -1,1 +1,5 @@
-{"version":"0.2.290","url":"https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk","notes":"New optional setting: Cache playback to storage. Keeps what you have already watched on disk so seeking backwards is instant instead of downloading again. OFF by default — turn it on in Settings > Playback, where you can also pick how much space it may use."}
+{
+  "version": "0.2.296",
+  "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
+  "notes": "Black & gold theme across the whole app, plus a redesigned player control bar: hover volume slider, settings menu, seek-time tooltip and a gold progress bar."
+}
