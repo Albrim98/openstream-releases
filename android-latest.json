@@ -1,5 +1,5 @@
 {
-  "version": "0.2.297",
+  "version": "0.2.299",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Black & gold theme across the whole app, and a redesigned player control bar: hover volume slider, settings menu, seek-time tooltip and a gold progress bar."
+  "notes": "Black & gold theme across the app. Stream quality badge removed (addons already show it), and the idle screensaver on the home screen is gone."
 }
