@@ -1,5 +1,5 @@
 {
-  "version": "0.2.304",
+  "version": "0.2.307",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Peer-to-peer (torrent) streams now actually start. Picking a P2P source used to sit on \"Preparing torrent\" forever - the magnets we build carry no trackers, so peer discovery was DHT-only and the timeout was on the wrong call. Metadata now resolves in about a second, and a genuinely dead torrent tells you instead of hanging."
+  "notes": "New Reelm app icon - the black and gold vinyl mark - across the launcher icon and the TV banner, drawn noticeably larger in the icon frame than before."
 }
