@@ -1,5 +1,5 @@
 {
-  "version": "0.2.320",
+  "version": "0.2.321",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Peer-to-peer downloads are now kept after you stop watching, so returning to a half-watched episode resumes from what you already have instead of starting over. Cache size is configurable (1GB-50GB or unlimited), and when it fills up the least recently watched titles go first - never the one you are playing."
+  "notes": "Peer-to-peer downloads are kept after you stop watching, so returning to a half-watched episode resumes from what you already have. Cache size is configurable (1GB-50GB or unlimited); when it fills up the least recently watched titles go first, never the one you are playing."
 }
