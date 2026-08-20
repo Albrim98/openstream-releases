@@ -1,5 +1,5 @@
 {
-  "version": "0.2.318",
+  "version": "0.2.319",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Peer-to-peer streams now open the player straight away and load from there, instead of holding you on the stream list - and browsing away while one loads no longer drags you into the player afterwards. Plainer wording while it loads. You can also install the same addon more than once with different configs, and rename each one."
+  "notes": "Anime now has its own settings: choose Japanese or English audio, and whether subtitles come on automatically (defaults unchanged - Japanese with subtitles). Settings is also reorganised, with a dedicated Subtitles section."
 }
