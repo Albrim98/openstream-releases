@@ -1,5 +1,5 @@
 {
-  "version": "0.2.315",
+  "version": "0.2.316",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "You can now install the same addon more than once with different configs - e.g. Torrentio for peer-to-peer alongside Torrentio with a debrid key. Rename each one on the Addons page so you can tell them apart when picking a stream."
+  "notes": "Peer-to-peer streams now open the player straight away and fetch from peers there, instead of holding you on the stream list. Browsing away while one is loading no longer drags you into the player afterwards. Plus: you can install the same addon more than once with different configs."
 }
