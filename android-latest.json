@@ -1,5 +1,5 @@
 {
-  "version": "0.2.307",
+  "version": "0.2.314",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "New Reelm app icon - the black and gold vinyl mark - across the launcher icon and the TV banner, drawn noticeably larger in the icon frame than before."
+  "notes": "Audio language and Subtitles now fill in on their own if you open them before the movie starts - no need to close and re-open. The remote also lands on the first option once the list appears."
 }
