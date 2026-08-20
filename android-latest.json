@@ -1,5 +1,5 @@
 {
-  "version": "0.2.314",
+  "version": "0.2.315",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Audio language and Subtitles now fill in on their own if you open them before the movie starts - no need to close and re-open. The remote also lands on the first option once the list appears."
+  "notes": "You can now install the same addon more than once with different configs - e.g. Torrentio for peer-to-peer alongside Torrentio with a debrid key. Rename each one on the Addons page so you can tell them apart when picking a stream."
 }
