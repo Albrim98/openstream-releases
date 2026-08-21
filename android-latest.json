@@ -1,5 +1,5 @@
 {
-  "version": "0.2.323",
+  "version": "0.2.324",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Fixes peer-to-peer streams failing on TV with 'error initializing persistent DHT'. The torrent engine now stores its network state inside the app's own folder, which Android allows it to write."
+  "notes": "A new look for the TV app: a true-black, high-contrast interface built for viewing from across the room. The washed-out grey background is gone, artwork stands out much more, and the D-pad focus is far easier to see - gold highlights on selected genres, buttons and progress bars. Layout and navigation are unchanged."
 }
