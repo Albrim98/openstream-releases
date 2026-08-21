@@ -1,5 +1,5 @@
 {
-  "version": "0.2.324",
+  "version": "0.2.325",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "A new look for the TV app: a true-black, high-contrast interface built for viewing from across the room. The washed-out grey background is gone, artwork stands out much more, and the D-pad focus is far easier to see - gold highlights on selected genres, buttons and progress bars. Layout and navigation are unchanged."
+  "notes": "Fixes the left sidebar staying expanded over the content once you had used it, instead of collapsing back to icons when you move away. It now opens only while the D-pad is actually on it."
 }
