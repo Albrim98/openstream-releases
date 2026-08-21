@@ -1,5 +1,5 @@
 {
-  "version": "0.2.325",
+  "version": "0.2.326",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Fixes the left sidebar staying expanded over the content once you had used it, instead of collapsing back to icons when you move away. It now opens only while the D-pad is actually on it."
+  "notes": "Fixes the player controls becoming unusable while a movie is still loading. The controls no longer hide themselves and no longer throw away where the remote was pointing, so you can reach Subtitles, Audio and Playback info while you wait. Most noticeable on peer-to-peer streams, which can take a while to start."
 }
