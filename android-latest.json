@@ -1,5 +1,5 @@
 {
-  "version": "0.2.326",
+  "version": "0.2.327",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Fixes the player controls becoming unusable while a movie is still loading. The controls no longer hide themselves and no longer throw away where the remote was pointing, so you can reach Subtitles, Audio and Playback info while you wait. Most noticeable on peer-to-peer streams, which can take a while to start."
+  "notes": "Back now returns to the screen you were actually on. In Settings and Account it steps back one level at a time instead of jumping straight to the home screen, and on a title page it closes the open episode first. The on-screen back arrow and the remote's Back button now do exactly the same thing.\n\nPicking a stream has been rebuilt. Opening a title is its own page now, sources appear on their own without a separate Choose stream step, and an addon dropdown sits where Play used to be so you can switch between AIOStreams, Torrentio and the rest. Each source card shows quality, codec, audio and size when the addon provides them."
 }
